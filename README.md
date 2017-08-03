@@ -1,7 +1,3 @@
-# electron-desktop-app
- This is electron web app
- 
- 
 # My Electron Installer
 
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/bq6c06suq5abb66s/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/windows-installer/branch/master)
